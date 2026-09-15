@@ -1,0 +1,60 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Reyes",
+      "specialty": "Cardiology",
+      "experienceYears": 10,
+      "availableDays": ["Mon", "Wed", "Fri"],
+      "description": "Specializes in preventive cardiology and heart health check-ups for all ages."
+    },
+    {
+      "id": 2,
+      "name": "Dr. Ahmed Lotfy",
+      "specialty": "Dermatology",
+      "experienceYears": 7,
+      "availableDays": ["Sun", "Tue"],
+      "description": "Focuses on skin health, acne treatment, and general dermatology care."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Lina Farouk",
+      "specialty": "Pediatrics",
+      "experienceYears": 12,
+      "availableDays": ["Mon", "Tue", "Thu"],
+      "description": "Provides checkups and vaccinations for infants, children, and teens."
+    },
+    {
+      "id": 4,
+      "name": "Dr. Omar Naguib",
+      "specialty": "Orthopedics",
+      "experienceYears": 15,
+      "availableDays": ["Wed", "Thu", "Sat"],
+      "description": "Treats bone, joint, and muscle conditions, including sports injuries."
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "patientName": "Youssef Hassan",
+      "contact": "youssef@email.com",
+      "date": "2026-09-20",
+      "time": "10:30",
+      "doctorId": 1,
+      "doctorName": "Dr. Sarah Reyes",
+      "note": "Routine heart check-up",
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "patientName": "Youssef Hassan",
+      "contact": "youssef@email.com",
+      "date": "2026-09-25",
+      "time": "14:00",
+      "doctorId": 2,
+      "doctorName": "Dr. Ahmed Lotfy",
+      "note": "Skin consultation",
+      "status": "pending"
+    }
+  ]
+}
