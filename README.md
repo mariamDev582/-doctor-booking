@@ -49,3 +49,54 @@ npm run build
 - Do not include `.env` or API keys; use `.env.example` if environment variables are added.
 - Record a short demo covering navigation, doctors, search/filtering, details, booking, appointments, reschedule, cancel, validation, and bonus features.
 - Push the project to GitHub with multiple meaningful commits during development.
+## 🔗 Live Demo
+[doctor-booking-neon.vercel.app](https://doctor-booking-neon.vercel.app)
+
+## 📸 Screenshots
+
+### Home Page
+
+
+![Home Page](screenshots/home-page.png)
+
+
+
+### Doctors Page
+
+
+![Doctors Page](screenshots/doctors-page.png)
+
+
+
+### Appointments Page
+
+
+![Appointments Page](screenshots/appointments-page.png)
+
+
+
+### Book Appointment
+
+
+![Booking Page](screenshots/booking-page.png)
+
+
+
+### Cancel Appointment
+
+
+![Cancel Appointment](screenshots/cancel-appointments-page.png)
+
+
+
+### Profile Page
+
+
+![Profile Page](screenshots/profile-page.png)
+
+
+
+### Dark Mode
+
+
+![Dark Mode](screenshots/dark-mode-page.png)
